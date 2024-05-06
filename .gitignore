@@ -1,0 +1,14 @@
+#vscode
+
+#忽略的文件及文件夹
+.vscode/
+.idea/
+
+*.exe
+
+
+#不忽略的文件
+!*.cc
+!*.h
+!*.hpp
+!*.cpp
